@@ -40,27 +40,25 @@ function Project({ title, price, img, link }: Props) {
 const items = [
   {
     title: "暢遊中台灣",
-    img:
-      "https://wd.car-plus.com.tw/ImgAdmin/News/images/20210118131553(1).png",
+    img: "https://wd.car.com.tw/ImgAdmin/News/images/20210118131553(1).png",
     price: "$3,490 起",
     url: "https://twanga.mohist.com.tw/index_pc.php?pro=CPS&d=1748&c=3654",
   },
   {
     title: "暢遊南臺灣",
-    img: "https://wd.car-plus.com.tw/ImgAdmin/News/images/20210118131553.png",
+    img: "https://wd.car.com.tw/ImgAdmin/News/images/20210118131553.png",
     price: "$3,490元 起",
     url: "https://twanga.mohist.com.tw/index_pc.php?pro=CPS&d=1748&c=3655",
   },
   {
     title: "暢遊東臺灣",
-    img: "https://wd.car-plus.com.tw/ImgAdmin/News/images/20210118131552.png",
+    img: "https://wd.car.com.tw/ImgAdmin/News/images/20210118131552.png",
     price: "$4,690元 起",
     url: "https://twangastore.mohist.com.tw/index_pc.php?pro=CPS&d=1748&c=3657",
   },
   {
     title: "暢遊北臺灣",
-    img:
-      "https://wd.car-plus.com.tw/ImgAdmin/News/images/20210118131552(1).png",
+    img: "https://wd.car.com.tw/ImgAdmin/News/images/20210118131552(1).png",
     price: "$3,490元 起",
     url: "https://twangastore.mohist.com.tw/index_pc.php?pro=CPS&d=1748&c=3656",
   },

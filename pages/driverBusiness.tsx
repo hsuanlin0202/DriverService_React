@@ -9,7 +9,7 @@ export default function DriverBusiness() {
   return (
     <LayoutMobile title="商務專車" bgColor={bgColor}>
       <DriverContent
-        video="https://www.youtube.com/embed/jitgDO0w-_o?controls=0"
+        video="https://www.youtube.com/embed/"
         title="外地出差、異地辦公。專業選擇"
         content={{
           items: [

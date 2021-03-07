@@ -11,7 +11,7 @@ export default function DriverCare() {
   return (
     <LayoutMobile title="長照專車" bgColor={bgColor}>
       <DriverContent
-        video="https://www.youtube.com/embed/OPcAuRgWHFI"
+        video="https://www.youtube.com/embed/"
         title="身障復健、無礙出遊"
         content={{
           items: [

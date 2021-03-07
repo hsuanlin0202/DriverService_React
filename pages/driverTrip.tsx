@@ -10,7 +10,7 @@ export default function DriverTrip() {
   return (
     <LayoutMobile title="旅遊專車" bgColor={bgColor}>
       <DriverContent
-        video="https://www.youtube.com/embed/X6gO_KDNzVs"
+        video="https://www.youtube.com/embed/"
         title="輕鬆出遊、FUN心玩"
         content={{
           items: [

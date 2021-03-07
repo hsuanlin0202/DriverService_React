@@ -5,7 +5,7 @@ import { NextPage } from "next";
 const IndexPage: NextPage = () => {
   return (
     <Layout title="公司租車">
-      <h1></h1>
+      <h1>公司租車</h1>
     </Layout>
   );
 };
